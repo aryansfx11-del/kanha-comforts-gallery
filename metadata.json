@@ -1,0 +1,6 @@
+{
+  "name": "Kanha Comforts Gallery",
+  "description": "Discover thoughtfully selected mattresses, luxurious bed linen, pillows, comforters, queen-size beds, and bedroom essentials at Kanha Comforts Gallery in New Delhi, India.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
